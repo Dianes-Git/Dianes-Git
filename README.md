@@ -18,7 +18,7 @@ I'm a passionate tech enthusiast with a drive to learn and innovate. I'm excited
 😄 Pronouns: She/Her
 
 ⚡ Fun fact: I enjoy solving puzzles, reading, and exploring new technologies in my free time.
-
+---
 ## 💻 *Tech Stack*
 <table align="center">
  <tr>
@@ -49,11 +49,12 @@ I'm a passionate tech enthusiast with a drive to learn and innovate. I'm excited
 
 ## 🏆 GitHub Trophies:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dianes-Git&theme=darkhub&margin-w=15&margin-h=15)
- 
+---
 <!-- Contact Section -->
 ## 📫 *Let's Connect*
 <p align="center">
  <a href="mailto:dianeihezue12@gmail.com?subject=Hello Diane!"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a>
+  ---
  <a href="https://www.linkedin.com/in/diane-ihezue/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/></a>
 </p>
 
