@@ -8,10 +8,6 @@ I'm a passionate tech enthusiast with a drive to learn and innovate. I'm excited
 
 💞️ I'm looking to collaborate on open-source projects, hackathons, and innovative ideas.
 
-📫 How to reach me:
-
-Email: dianeihezue12@gmail.com
-
 😄 Pronouns: She/Her
 
 ⚡ Fun fact: I enjoy solving puzzles, reading, and exploring new technologies in my free time.
