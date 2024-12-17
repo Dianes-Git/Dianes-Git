@@ -1,3 +1,10 @@
+<!-- Header Section -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=500&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hello!+I'm+Diane Ihezue;Cloud Security+%26+DevOps+Engineer" alt="Typing SVG" />
+</p>
+
+<!-- About Me Section -->
+## 🚀 **About Me**
 Hi, I'm @Dianes-Git
 
 I'm a passionate tech enthusiast with a drive to learn and innovate. I'm excited to share my journey, projects, and experiences with you!
@@ -54,6 +61,7 @@ I'm a passionate tech enthusiast with a drive to learn and innovate. I'm excited
 
 ![](https://komarev.com/ghpvc/?username=Dianes-Git&color=blue)
 
+<p align="center">⚡ The code is just a start, let's connect and innovate!💡 ⚡</p>
 <!--
 Dianes-Git/Dianes-Git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
