@@ -53,8 +53,7 @@ I'm a passionate tech enthusiast with a drive to learn and innovate. I'm excited
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dianes-Git&theme=darkhub&margin-w=15&margin-h=15)
 
 ## 🔝 Top Contributed Repos
-<!-- Top Contributed Repos -->
-![Top Contributed Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=Dianes-Git&repo=Portfolio-website&langs_count=10&layout=compact)
+![Top Contributed Repos](https://github-readme-stats.vercel.app/api/top-repositories?username=Dianes-Git&show_icons=true&count_private=true&hide=prs)
 
 ---
 <!-- Contact Section -->
