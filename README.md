@@ -34,8 +34,6 @@ I'm a passionate tech enthusiast with a drive to learn and innovate. I'm excited
    <td align="center"><img src="https://img.shields.io/badge/Cockpit-005CA9?style=flat&logoColor=white" alt="Cockpit"/></td>
  </tr>
 </table>
- 
----
 
 ## 📊 GitHub Stats:
 
