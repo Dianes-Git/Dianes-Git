@@ -3,6 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=500&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hello!+I'm+Diane Ihezue;Cloud Security+%26+DevOps+Engineer" alt="Typing SVG" />
 </p>
 
+
 <!-- About Me Section -->
 ## 🚀 **About Me**
 Hi, I'm @Dianes-Git
@@ -19,6 +20,8 @@ I'm a passionate tech enthusiast with a drive to learn and innovate. I'm excited
 
 ⚡ Fun fact: I enjoy solving puzzles, reading, and exploring new technologies in my free time.
 ---
+
+
 ## 💻 *Tech Stack*
 <table align="center">
  <tr>
@@ -34,6 +37,7 @@ I'm a passionate tech enthusiast with a drive to learn and innovate. I'm excited
    <td align="center"><img src="https://img.shields.io/badge/Cockpit-005CA9?style=flat&logoColor=white" alt="Cockpit"/></td>
  </tr>
 </table>
+
 
 ## 📊 GitHub Stats:
 
