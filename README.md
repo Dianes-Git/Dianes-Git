@@ -5,7 +5,7 @@
 
 
 <!-- About Me Section -->
-## 🚀 **About Me**
+## 👩‍💻 **About Me**
 Hi, I'm @Dianes-Git
 
 I'm a passionate tech enthusiast with a drive to learn and innovate. I'm excited to share my journey, projects, and experiences with you!
@@ -43,10 +43,10 @@ I'm a passionate tech enthusiast with a drive to learn and innovate. I'm excited
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dianes-Git&show_icons=true&theme=dark&count_private=true)
 
-## 📊 GitHub Streak:
+## 🔥 GitHub Streak:
 ![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dianes-Git&theme=dark&hide_border=false)
 
-## 📊 Most Used Languages:
+## 💬 Most Used Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dianes-Git&layout=compact&theme=dark)
 
 ## 🏆 GitHub Trophies:
@@ -57,7 +57,7 @@ I'm a passionate tech enthusiast with a drive to learn and innovate. I'm excited
 
 ---
 <!-- Contact Section -->
-## 📫 *Let's Connect*
+## 📲 *Let's Connect*
 <p align="center">
  <a href="mailto:dianeihezue12@gmail.com?subject=Hello Diane!"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a>
  <a href="https://www.linkedin.com/in/diane-ihezue/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/></a>
