@@ -54,7 +54,7 @@ I'm a passionate tech enthusiast with a drive to learn and innovate. I'm excited
 
 ## 🔝 Top Contributed Repos
 <!-- Top Contributed Repos -->
-[![Top Repo](https://github-readme-stats.vercel.app/api/pin/?username=diane-ihezue&repo=Portfolio-website)](https://github.com/diane-ihezue/Portfolio-website)
+![Top Contributed Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=Dianes-Git&repo=Portfolio-website&langs_count=10&layout=compact)
 
 ---
 <!-- Contact Section -->
