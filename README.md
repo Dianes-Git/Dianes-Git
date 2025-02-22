@@ -6,7 +6,7 @@
 
 <!-- About Me Section -->
 ## 👩‍💻 **About Me**
-Hi, I'm @Dianes-Git
+Hi, I'm Diane.
 
 I'm a passionate tech enthusiast with a drive to learn and innovate. I'm excited to share my journey, projects, and experiences with you!
 
