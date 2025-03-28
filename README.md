@@ -15,9 +15,13 @@ I enjoy figuring out how to simplify complex cloud architectures, setting up CI/
 💡 What I Do:
 
 🚀 Deploy and manage cloud infrastructure with AWS, GCP, and Azure
+
 🔧 Automate workflows using CI/CD pipelines
+
 🐳 Containerize applications with Docker & Kubernetes
+
 📜 Write Infrastructure-as-Code with Terraform & CloudFormation
+
 🔐 Implement cloud security best practices
 
 
