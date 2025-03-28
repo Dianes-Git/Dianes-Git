@@ -29,6 +29,7 @@ I enjoy figuring out how to simplify complex cloud architectures, setting up CI/
 <table align="center">
  <tr>
    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" alt="Google Cloud"/></td>
+   <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="60" alt="AWS"/></td>
    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60" alt="Azure"/></td>
    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="60" alt="Terraform"/></td>
    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60" alt="Kubernetes"/></td>
