@@ -6,19 +6,21 @@
 
 <!-- About Me Section -->
 ## 👩‍💻 **About Me**
-Hi, I'm Diane.
+👋 Hi, I'm Diane!
 
-I'm a passionate tech enthusiast with a drive to learn and innovate. I'm excited to share my journey, projects, and experiences with you!
+I’m a Cloud & DevOps Engineer who loves automating stuff, optimizing cloud setups, and making systems run smoothly. I’ve worked across AWS, Google Cloud (GCP), and Microsoft Azure, building scalable, resilient infrastructure that actually makes life easier.
 
-👀 I'm interested in Cloud Computing, DevOps, and Artificial Intelligence.
+I enjoy figuring out how to simplify complex cloud architectures, setting up CI/CD pipelines, and using Infrastructure-as-Code (IaC) to keep things efficient and manageable. Basically, if it involves automation, cloud, or making tech work better, I’m all in!
 
-🌱 I'm currently learning Cloud Security, Kubernetes, and Terraform.
+💡 What I Do:
+🚀 Deploy and manage cloud infrastructure with AWS, GCP, and Azure
+🔧 Automate workflows using CI/CD pipelines
+🐳 Containerize applications with Docker & Kubernetes
+📜 Write Infrastructure-as-Code with Terraform & CloudFormation
+🔐 Implement cloud security best practices
 
-💞️ I'm looking to collaborate on open-source projects, hackathons, and innovative ideas.
 
-😄 Pronouns: She/Her
-
-⚡ Fun fact: I enjoy solving puzzles, reading, and exploring new technologies in my free time.
+⚡ Fun fact: I enjoy learning, problem-solving, and documenting my projects to help others in the Cloud & DevOps space.
 ---
 
 
