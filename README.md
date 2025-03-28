@@ -13,6 +13,7 @@ I’m a Cloud & DevOps Engineer who loves automating stuff, optimizing cloud set
 I enjoy figuring out how to simplify complex cloud architectures, setting up CI/CD pipelines, and using Infrastructure-as-Code (IaC) to keep things efficient and manageable. Basically, if it involves automation, cloud, or making tech work better, I’m all in!
 
 💡 What I Do:
+
 🚀 Deploy and manage cloud infrastructure with AWS, GCP, and Azure
 🔧 Automate workflows using CI/CD pipelines
 🐳 Containerize applications with Docker & Kubernetes
