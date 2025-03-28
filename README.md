@@ -6,7 +6,7 @@
 
 <!-- About Me Section -->
 ## 👩‍💻 **About Me**
-👋 Hi, I'm Diane!
+👋 Hey there!
 
 I’m a Cloud & DevOps Engineer who loves automating stuff, optimizing cloud setups, and making systems run smoothly. I’ve worked across AWS, Google Cloud (GCP), and Microsoft Azure, building scalable, resilient infrastructure that actually makes life easier.
 
